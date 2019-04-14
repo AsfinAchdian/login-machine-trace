@@ -5,6 +5,11 @@ PART 1
 
 Build a usable client and server with capabilities as defined with Alpha Server and Alpha Client.
 
-Using below command :
+Using terraform :
 
-docker run --rm -it centos:centos6.7
+Machine 1 (nodeABC)
+Machine 2 (nodeXYZ)
+
+PART 2
+
+Show metrics for ssh log-in attempts

@@ -1,4 +1,4 @@
-# Create first instance of the latest Ubuntu 14.04 on an
+# Create first instance Alpha Server of the latest Ubuntu 14.04 on an
 # t2.micro node with an AWS Tag naming it "nodeABC"
 
 provider "aws" {
@@ -30,7 +30,7 @@ resource "aws_instance" "web" {
   }
 }
 
-# Create second instance of the latest Ubuntu 14.04 on an
+# Create second instance Alpha Client of the latest Ubuntu 14.04 on an
 # t2.micro node with an AWS Tag naming it "nodeXYZ"
 
 provider "aws" {

@@ -16,10 +16,12 @@ PART 2
 
 Show metrics for ssh log-in attempts
 
-with running command python login-trace.py
+with running command python login-trace.py in AlphaServer
 
 after running the command it will shown : 
 
 Enter the full path of the file you want to get data from:
 
 and just type /var/log/auth.log
+
+and enter the path where the output would stored

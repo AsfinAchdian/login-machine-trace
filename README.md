@@ -7,8 +7,10 @@ Build a usable client and server with capabilities as defined with Alpha Server 
 
 Using terraform :
 
-Machine 1 (nodeABC)
-Machine 2 (nodeXYZ)
+- Machine for Alpha Server
+
+- Machine for Alpha Client : nodeABC & nodeXYZ
+
 
 PART 2
 
